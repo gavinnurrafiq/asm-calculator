@@ -6,7 +6,7 @@ A modular, 64-bit x86 assembly calculator built using NASM syntax for the Window
 
 ## Preview / Screenshot
 
-![Calculator Screenshot](./screenshot.png)
+![Calculator Screenshot](./asset/screenshot.png)
 
 ---
 
